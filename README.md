@@ -2,7 +2,7 @@
 
 Code for the central analyses in the study.
 # Overview of the paper
-![bf904ab7ba7b866989aa0b3805fd93d3.png](en-resource://database/904:0)
+https://github.com/Lan-lab/AML_multiomics/blob/main/Code/paper_fig.png
 ## Environment
 R version 3.5.1
 ## Dependiencies
